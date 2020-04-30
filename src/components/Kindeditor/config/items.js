@@ -51,7 +51,7 @@ const items = [
   // "insertfile",
   // "table",
   'hr',
-  // "emoticons",
+  'emoticons',
   // "baidumap",
   'pagebreak',
   'anchor',
